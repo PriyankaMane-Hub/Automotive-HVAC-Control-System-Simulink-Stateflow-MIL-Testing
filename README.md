@@ -1,9 +1,7 @@
  # 🌬️ Automotive HVAC Control System | Simulink + Stateflow + MIL Testing
 
 ## 📌 Project Overview  
-This project involves the development of an HVAC (Heating, Ventilation, and Air Conditioning) control system for vehicle cabins using a Model-Based Design approach in MATLAB/Simulink. Starting with a clear understanding of system functionality, I created structured system requirements that drove the development of a bus-based Simulink model integrated with Stateflow for logic control. Each requirement was linked to specific test case scenarios, and the system was validated using Model-in-the-Loop (MIL) simulations to ensure functional accuracy under various operational conditions.
-
-HVAC systems play a vital role in enhancing passenger comfort, maintaining driver alertness, and ensuring visibility through effective defogging and climate control. As vehicles become more intelligent and energy-efficient, precise HVAC control is essential for both thermal management and user experience.
+This project involves the development of an HVAC (Heating, Ventilation, and Air Conditioning) control system for vehicle cabins using a Model-Based Design approach in MATLAB/Simulink. Starting with a clear understanding of system functionality, created structured system requirements that drove the development of a bus-based Simulink model integrated with Stateflow for logic control. Each requirement was linked to specific test case scenarios, and the system was validated using Model-in-the-Loop (MIL) simulations to ensure functional accuracy under various operational conditions. HVAC systems play a vital role in enhancing passenger comfort, maintaining driver alertness, and ensuring visibility through effective defogging and climate control. As vehicles become more intelligent and energy-efficient, precise HVAC control is essential for both thermal management and user experience.
 
 ---
 
@@ -98,5 +96,6 @@ Simulink + Stateflow-based implementation of HVAC logic including:
 
 ## 🚘HVAC Model
 
+![HVAC_Model_Diagram](https://github.com/user-attachments/assets/7974ea31-f246-454e-aef5-e7f7a70fca8b)
 
 
