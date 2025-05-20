@@ -94,7 +94,7 @@ Simulink + Stateflow-based implementation of HVAC logic including:
 
 
 
-## 🚘HVAC Model
+## 🚘HVAC Simulink Model
 
 ![HVAC_Model_Diagram](https://github.com/user-attachments/assets/7974ea31-f246-454e-aef5-e7f7a70fca8b)
 
